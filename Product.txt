@@ -1,0 +1,5 @@
+1x14,watermelon,kg,150.0,2.0,10/16/2018 00:28:15,overseas
+1x15,banana,kg,35.0,3.0,10/16/2018 00:28:15,overseas
+1x11,carrot,kg,50.0,2.5,10/16/2018 00:28:15,local
+1x12,potato,pakage,100.0,5.0,10/16/2018 00:28:15,local
+1x13,tomato,kg,25.0,6.0,10/16/2018 00:28:15,local

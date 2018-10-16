@@ -1,0 +1,7 @@
+admin,admin,O
+aaa,123,C,101
+bbb,123,C,102
+ccc,123,C,103
+ddd,123,C,104
+asd,123,C,0
+asa,aaa,C,1
